@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighScoreConsole\\HighScoreConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreBL\\HighscoreBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreBL\\HighscoreBL.csproj",
+        "projectName": "HighscoreBL",
+        "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreBL\\HighscoreBL.csproj",
+        "packagesPath": "C:\\Users\\lukaspeer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukaspeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj": {
+                "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj"
+              },
+              "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj": {
+                "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighScoreConsole\\HighScoreConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighScoreConsole\\HighScoreConsole.csproj",
+        "projectName": "HighScoreConsole",
+        "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighScoreConsole\\HighScoreConsole.csproj",
+        "packagesPath": "C:\\Users\\lukaspeer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighScoreConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukaspeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreBL\\HighscoreBL.csproj": {
+                "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreBL\\HighscoreBL.csproj"
+              },
+              "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj": {
+                "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj"
+              },
+              "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj": {
+                "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj",
+        "projectName": "HighscoreDAL",
+        "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\HighscoreDAL.csproj",
+        "packagesPath": "C:\\Users\\lukaspeer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukaspeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj": {
+                "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj",
+        "projectName": "HighscoreModels",
+        "projectPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\HighscoreModels.csproj",
+        "packagesPath": "C:\\Users\\lukaspeer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lukaspeer\\Desktop\\HighscoreDev\\HighscoreModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lukaspeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

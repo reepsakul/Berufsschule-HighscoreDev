@@ -1,0 +1,15 @@
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.csproj.AssemblyReference.cache
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.AssemblyInfoInputs.cache
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.AssemblyInfo.cs
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.csproj.CoreCompileInputs.cache
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\bin\Debug\net7.0\HighscoreDAL.deps.json
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\bin\Debug\net7.0\HighscoreDAL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\bin\Debug\net7.0\HighscoreDAL.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\bin\Debug\net7.0\HighscoreModels.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\bin\Debug\net7.0\HighscoreModels.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.csproj.CopyComplete
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\refint\HighscoreDAL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\HighscoreDAL.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreDAL\obj\Debug\net7.0\ref\HighscoreDAL.dll

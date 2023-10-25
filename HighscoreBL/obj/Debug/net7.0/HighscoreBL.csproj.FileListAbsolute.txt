@@ -1,0 +1,17 @@
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreBL.deps.json
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreBL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreBL.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.AssemblyInfoInputs.cache
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.AssemblyInfo.cs
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.csproj.CoreCompileInputs.cache
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\refint\HighscoreBL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\ref\HighscoreBL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.csproj.AssemblyReference.cache
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreDAL.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreModels.dll
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreDAL.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\bin\Debug\net7.0\HighscoreModels.pdb
+C:\Users\lukaspeer\Desktop\HighscoreDev\HighscoreBL\obj\Debug\net7.0\HighscoreBL.csproj.CopyComplete

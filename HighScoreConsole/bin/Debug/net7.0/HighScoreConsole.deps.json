@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HighScoreConsole/1.0.0": {
+        "dependencies": {
+          "HighscoreBL": "1.0.0",
+          "HighscoreDAL": "1.0.0",
+          "HighscoreModels": "1.0.0"
+        },
+        "runtime": {
+          "HighScoreConsole.dll": {}
+        }
+      },
+      "HighscoreBL/1.0.0": {
+        "dependencies": {
+          "HighscoreDAL": "1.0.0",
+          "HighscoreModels": "1.0.0"
+        },
+        "runtime": {
+          "HighscoreBL.dll": {}
+        }
+      },
+      "HighscoreDAL/1.0.0": {
+        "dependencies": {
+          "HighscoreModels": "1.0.0"
+        },
+        "runtime": {
+          "HighscoreDAL.dll": {}
+        }
+      },
+      "HighscoreModels/1.0.0": {
+        "runtime": {
+          "HighscoreModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HighScoreConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HighscoreBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HighscoreDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HighscoreModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
